@@ -12,3 +12,5 @@ git clone https://github.com/ur0n2/dotfiles-for-windows.git
 cd .\dotfiles-for-windows\
 .\setup_ps.ps1
 ```
+
+powershell code highlighting is not operation.
